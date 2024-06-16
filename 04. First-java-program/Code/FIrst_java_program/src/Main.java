@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hey world!");
         Scanner input = new Scanner(System.in); //creating new scanner class object. ()-> it is just a constructor like in solidity from where you are taking the input.
 //        System.out.println(input.nextInt()); //print int
-        System.out.println(input.nextLine()); //print line
+        System.out.println(input.nextLine()); //printing line
         System.out.println("HI my name is kartik!");
     }
 }
